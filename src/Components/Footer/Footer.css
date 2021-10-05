@@ -1,0 +1,9 @@
+/* background color  */
+.background{
+    background-color: rgb(6, 6, 83);
+    color: white;
+}
+/* list  */
+.list{
+    list-style: none;
+}

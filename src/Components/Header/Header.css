@@ -1,0 +1,12 @@
+/* company name color  */
+.navbar-light .title{
+    color: rgb(6, 6, 83);
+}
+.navbar-light .title:hover{
+    color: rgb(6, 6, 83);
+}
+/* navbar links align  */
+.navbar-align{
+    align-items: flex-end;
+    flex-grow: unset;
+}

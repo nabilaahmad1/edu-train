@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "img": "https://image.freepik.com/free-photo/front-view-female-student-red-shirt-with-backpack-holding-books-files-smiling-blue-wall_140725-38370.jpg",
+    "courseName": "UX/UI Design",
+    "courseDetail": "UI designers focus on user experience by designing easy-to-navigate software for all types of digital products like websites, applications, and other interactive devices.",
+    "coursePrice": 50,
+    "ratings": 4,
+    "courseTrainer": "Mow Islam"
+  },
+  {
+    "id": 2,
+    "img": "https://image.freepik.com/free-photo/front-view-male-student-wearing-black-backpack-holding-copybooks-files-blue-wall_140725-42636.jpg",
+    "courseName": "Web Devolopment",
+    "courseDetail": "Web development is the building and maintenance of websites; it’s the work that happens behind the scenes to make a website look great, work fast and perform well with a seamless user experience.",
+    "coursePrice": 100,
+    "ratings": 4.5,
+    "courseTrainer": "Akash Kader"
+  },
+  {
+    "id": 3,
+    "img": "https://image.freepik.com/free-photo/front-view-female-student-white-shirt-holding-pen-copybook-thinking-blue-wall_140725-38456.jpg",
+    "courseName": "Python Crush Course",
+    "courseDetail": "A Python Developer is responsible for coding, designing, deploying, and debugging development projects, typically on the server-side (or back-end).",
+    "coursePrice": 130,
+    "ratings": 3,
+    "courseTrainer": "Roni Roy"
+  },
+  {
+    "id": 4,
+    "img": "https://image.freepik.com/free-photo/smiling-african-student-pointing-with-pencil-laptop-screen-concentrated-blonde-woman-glasses-propping-chin-with-hand-while-working-with-computer-office_197531-3714.jpg",
+    "courseName": "Software Quality Assurance",
+    "courseDetail": "A QA engineer focuses on improving software development processes and preventing defects in production.",
+    "coursePrice": 90,
+    "ratings": 3.5,
+    "courseTrainer": "Shuvo Das"
+  }
+]
